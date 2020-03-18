@@ -20,6 +20,9 @@ body {
   transform: scale(1.2);
   transition-duration: 0.5s;
 }
+.block-comment:hover .triangle {
+  bottom: -18px;
+}
 .block-comment .text {
   color: #fff;
   line-height: 17px;
